@@ -22,4 +22,11 @@ public class LoadScene : MonoBehaviour
     {
         Time.timeScale = 1;
     }
+
+    void Start(){
+
+    }
+    void Update(){
+        
+    }
 }
