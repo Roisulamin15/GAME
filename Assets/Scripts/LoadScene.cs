@@ -29,4 +29,8 @@ public class LoadScene : MonoBehaviour
     void Update(){
         
     }
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }
